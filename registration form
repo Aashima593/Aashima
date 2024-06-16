@@ -1,0 +1,78 @@
+<html>
+<head>
+<title> forms within table </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<table border="3px solid" height="400" width="600">
+<form>
+<tr>
+<th colspan="4">REGISTRATION FORM</th>
+</tr>
+<tr>
+<td>Your first name:</td>
+<td colspan="4"><input type="text" placeholder="enter your first name"/></td>
+</tr>
+<tr>
+<td>Your last name:</td>
+<td colspan="4"><input type="text" placeholder="enter your last name"/</td>
+</tr>
+<tr>
+<td colspan="2">Your email ID:</td>
+<td colspan="2"><input type="mail" placeholder="abc@gmail.com"/></td>
+</tr>
+<tr>
+<td colspan="2">Mobile Number:</td>
+<td colspan="2"><input type="Mobile Number" placeholder="enter 10 digit mobile number"/></td>
+</tr>
+<tr>
+<td colspan="2">Your password:</td>
+<td colspan="2"><input type="password" placeholder="your email id password"/></td>
+</tr>
+<tr>
+<td colspan="2">Date of birth:</td>
+<td colspan="2"><input type="date"/></td>
+</tr>
+<tr>
+<td colspan="2">Select Country:</td>
+<td colspan="2"><select><option>India</option><option>USA</option><option>Russia</option><option>UK</option><option>Australia</option><option>Canada</option><option>Pakistan</option></select></td>
+</tr>
+<tr>
+<td colspan="2">Gender:</td>
+<td colspan="2"><input type="radio" name="gender"/>Male<input type="radio" name="gender"/>Female<input type="radio" name="gender"/>Other</td>
+</tr>
+<tr>
+<td colspan="2">Hobbies:</td>
+<td colspan="2"><input type="checkbox">travelling<input type="checkbox">Dance<input type="checkbox">Singing<input type="checkbox">Painting
+</tr> 
+<tr>
+<td colspan="2">Your subjects:</td>
+<td colspan="2"><input type="checkbox"/>Maths<input type="checkbox"/>English<input type="checkbox"/>Chemistry<input type="checkbox"/>Computer</td>
+</tr>
+<tr>
+<td colspan="2">Your address:</td>
+<td colspan="2"><textarea height="200"></textarea></td>
+</tr>
+<tr>
+<td colspan="2">Your document:</td>
+<td colspan="2"><input type="file">
+</tr>
+<tr>
+<td colspan="4"><button>Reset All</button> <button> Submit</button>
+</tr>
+</table>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png"height="70"width="70">
+<img src="https://cdn-icons-png.flaticon.com/128/888/888846.png"height="70"width="70">
+<img src="https://cdn-icons-png.flaticon.com/128/300/300221.png"height="70"width="70">
+<img src="https://cdn-icons-png.flaticon.com/128/1384/1384066.png"height="70"width="70">
+<img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"height="70"width="70">
+<i class="fa-brands fa-google"style="font-size:70px;color:green;"></i>
+<i class="fa-brands fa-google-drive"style="font-size:70px;color:yellow;"></i>
+<i class="fa-brands fa-google-play"style="font-size:70px;"></i>
+<i class="fa-brands fa-square-snapchat"style="font-size:70px;"></i>
+<i class="fa-brands fa-square-instagram"style="font-size:70px;"></i>
+</body>
+</html>
+
+
+
