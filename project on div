@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DIV CARDS HTML</title>
+  <center> <h1>TYPES OF FLOWERS</h1></center>
+  <style>
+     body 
+ {
+    background-color:green;
+ }
+.main
+{
+display:flex;
+justify-content:space-between;
+background-clolor:yellow;
+}
+.sub
+{
+margin:3px;
+border:6px groove blue;
+width:50%;
+background-color:pink;
+border-radius:20px;
+}
+img{width:100%; height: 30%;} 
+img:hover {border-radius:100%;}
+h2(text-align:center;}
+h1{
+color:pink;
+font-style:italic; }
+</style>
+</head>
+<body>
+<div class="main">
+<div class="sub">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Single_lavender_flower02.jpg"/>
+<h2>LAVENDER</h2>
+<p><i><mark>LAVANDER&nbsp;&nbsp;&nbsp;</mark></i>Lavender, with its fragrant spikes of purple blooms and soothing aroma, is a beloved herb cherished for its beauty and versatility. Originating from the Mediterranean region, this perennial plant thrives in sunny, well-drained soil, adorning gardens with its delicate flowers and silvery-green foliage. Beyond its ornamental appeal, lavender is renowned for its therapeutic properties, often used in aromatherapy and herbal remedies for its calming effects on the mind and body. Its essential oils are prized in perfumery and skincare, offering a natural fragrance that promotes relaxation and stress relief. In culinary arts, lavender adds a subtle floral note to dishes and beverages, enhancing both flavor and presentation. Culturally, lavender symbolizes purity, tranquility, and devotion, making it a popular choice for bouquets, sachets, and decorative arrangements</p>
+</div>
+<div class="sub">
+<img src="https://www.thespruce.com/thmb/qkvfS0V6VBMFDMNpoGSF5QeLOgg=/1222x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-6808328192-5b9d688246e0fb0050792756.jpg"/>
+<h2>ROSE</h2>
+<p><i><mark>ROSE&nbsp;&nbsp;&nbsp;</mark></i> The Rose, with its velvety petals and enchanting fragrance, epitomizes beauty and elegance in the world of flora. Found in gardens and landscapes around the globe, this timeless flower symbolizes love, passion, and romance. Its diverse colors—from deep crimson to soft pastels—offer a visual feast, captivating hearts with each delicate bloom. Beyond its aesthetic appeal, the rose holds cultural significance, appearing in art, literature, and celebrations throughout history. Whether gifted as a token of affection or admired for its natural grace, the rose remains a beloved symbol that continues to inspire and delight people of all ages. </p>
+</div>
+<div class="sub">
+<img src="https://cdn.britannica.com/91/239491-050-41193899/red-hibiscus-flower-stamen.jpg"/>
+<h2>HIBISCUS</h2>
+<p><i><mark>HIBISCUS&nbsp;&nbsp;&nbsp;</mark></i>The hibiscus, with its striking blossoms and tropical allure, is a flower of vibrant beauty and cultural significance. Known for its large, trumpet-shaped petals that range in color from brilliant reds and oranges to soft pinks and whites, the hibiscus graces gardens, landscapes, and floral arrangements worldwide. Native to warm climates, particularly in tropical and subtropical regions, this resilient plant thrives in sunny environments and symbolizes joy, beauty, and hospitality in many cultures. Beyond its ornamental value, the hibiscus holds medicinal properties, with its flowers and leaves used in teas and beverages known for their refreshing taste and potential health benefits.</p>
+</div>
+<div class="sub">
+<img src="https://images.pexels.com/photos/21461/pexels-photo.jpg?cs=srgb&dl=pexels-skitterphoto-21461.jpg&fm=jpg"/>
+<h2>SUNFLOWER</h2>
+<p><i><mark>SUNFLOWER&nbsp;&nbsp;</mark></i>The sunflower, with its radiant yellow petals and imposing stature, stands as a symbol of optimism and vitality in the world of flora. Named for its tendency to turn its face towards the sun, this iconic flower embodies warmth, positivity, and resilience. Native to the Americas but now cultivated globally, sunflowers are known for their impressive size, often reaching heights of over ten feet, and their large, disc-shaped blooms that can span up to a foot in diameter. Beyond their visual appeal, sunflowers hold practical value as well; their seeds are a nutritious snack and a source of oil used in cooking and skincare products. In art and literature, the sunflower has been celebrated for centuries, representing adoration, loyalty, and the beauty of nature.</p>
+</div>
+</div>
+</body>
+</html>
