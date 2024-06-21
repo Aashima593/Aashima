@@ -1,0 +1,18 @@
+# introduction of bootstrap
+- components of bootstrap:-
+- buttons:Use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.like base class,variants,outline buttons.
+- base class:<button type="button" class="btn">Base class</button>
+- variant:<button type="button" class="btn btn-primary">Primary</button>
+  <button type="button" class="btn btn-secondary">Secondary</button>
+  <button type="button" class="btn btn-success">Success</button>
+  <button type="button" class="btn btn-danger">Danger</button>
+  <button type="button" class="btn btn-warning">Warning</button>
+  <button type="button" class="btn btn-info">Info</button>
+  <button type="button" class="btn btn-light">Light</button>
+  <button type="button" class="btn btn-dark">Dark</button>
+  <button type="button" class="btn btn-link">Link</button>
+- card:Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.example:card title.
+- navbar:Documentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.
+- external css and there properties:-
+- External CSS is used to style multiple HTML pages with a single style sheet. External CSS contains a separate CSS file with a .css extension. The CSS file contains style properties added on selectors (For example class, id, heading etc.)
+- colour and background properties,box model properties,border properties,positioning properties etc.
